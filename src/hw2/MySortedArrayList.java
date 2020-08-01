@@ -1,4 +1,4 @@
-package lesson2;
+package hw2;
 
 public class MySortedArrayList<T extends Comparable<T>> extends MyArrayList<T> {
 
