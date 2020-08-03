@@ -1,4 +1,4 @@
-package lesson2;
+package hw2;
 
 import java.util.*;
 
